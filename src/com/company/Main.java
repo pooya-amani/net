@@ -16,6 +16,8 @@ public class Main {
 
         String c = "pooya";
         System.out.println(c.length());
+
+        int f = 10;
     }
 
 
